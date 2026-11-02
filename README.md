@@ -17,7 +17,7 @@ A comprehensive data analytics project designed to deliver real-time operational
 
 ## 🎯 Project Objective
 
-The goal of this project is to develop an interactive, real-time weekly dashboard that monitors credit card operations. It empowers stakeholders to analyze key performance indicators (KPIs) surrounding revenue generation, transaction volumes, interest earnings, and demographic distributions.
+The goal of this project is to develop an interactive, real-time weekly dashboard that monitors credit card operations. It empowers stakeholders to analyze key performance indicators (KPIs) surrounding revenue generation, transaction volumes, interest earnings, and demographic variables.
 
 ---
 
