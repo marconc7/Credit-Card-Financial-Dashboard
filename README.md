@@ -82,7 +82,7 @@ Provides granular visibility into transaction amounts, transaction counts, card 
 ### Card & Usage Behaviors
 - **Card Tier Dominance:** **Blue credit cards** account for **83.5% ($47.2M)** of total revenue.
 - **Top Expenditure Category:** Bill payments lead all expenditure types at **$14.0M**, followed by Entertainment (**$9.8M**) and Fuel (**$9.6M**).
-- **Preferred Swipe Type:** **Swipe transactions** dominate at **$23M**, followed by Chip (**$17M**) and Online (**$4M**).
+- **Preferred Swipe Type:** **Swipe transactions** dominate at **$36M**, followed by Chip (**$17M**) and Online (**$4M**).
 
 ---
 
@@ -94,7 +94,7 @@ Provides granular visibility into transaction amounts, transaction counts, card 
    ```
 
 2. **Database Setup:**
-   - Execute the SQL table creation script found in `/sql/schema.sql`.
+   - Execute the SQL table creation commands found in `Credit Card Financial Report Project` file.
    - Load the `customer.csv` and `credit_card.csv` datasets into their respective tables using your SQL client (e.g., PostgreSQL `\copy` or SQL Server Import Wizard).
 
 3. **Open in Power BI:**
